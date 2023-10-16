@@ -19,8 +19,8 @@ h2{
 main{
     height: 70vh;
 }
-img{
-    border: 2px solid fuchsia;
+figure>img{
+    border: 5px solid fuchsia;
     width: 90%;
     height: 80%;
 }
